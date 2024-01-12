@@ -66,4 +66,5 @@ function DetailsErrorBoundary(props) {
   );
 }
 
+
 export default DetailsErrorBoundary;
